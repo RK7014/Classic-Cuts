@@ -57,7 +57,7 @@ export const DatePicker = {
     );
   },
   args: {
-    date: Date.parse("2023-11-3000"),
+    date: Date.parse("2023-11-3004"),
   },
 };
 
